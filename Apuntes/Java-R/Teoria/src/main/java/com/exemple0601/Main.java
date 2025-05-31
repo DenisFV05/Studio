@@ -26,5 +26,7 @@ public class Main {
         // Mostrar elements per separat
         System.out.println("Element a l'índex [0]: " + numeros.get(0));
         System.out.println("Element a l'índex [1]: " + numeros.get(1));
+
+        
     }
 }
