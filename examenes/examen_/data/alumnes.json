@@ -1,0 +1,20 @@
+[
+    {
+        "nom": "Maria",
+        "edat": 18,
+        "dni": "12868093F",
+        "aficions": ["Futbol", "Basquet"]
+    },
+    {
+        "nom": "Arnau",
+        "edat": 19,
+        "dni": "56442478H",
+        "aficions": ["Natacio", "Basquet"]
+    },
+    {
+        "nom": "Alex",
+        "edat": 17,
+        "dni": "56865736A",
+        "aficions": ["Esqui", "Futbol"]
+    }
+]
